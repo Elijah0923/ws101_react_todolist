@@ -1,0 +1,16 @@
+.Biodata{
+    text-align: left;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #2182a5;
+    border: 1px solid black;
+    box-shadow: 0 0 20px rgb(249, 5, 220);
+    flex-wrap: wrap;
+  }
+h1 {
+  text-align: center;
+  background-color: rgb(67 77 183);
+  border: 10px;
+  border-radius: 20px;
+}
